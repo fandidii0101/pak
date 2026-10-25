@@ -10,7 +10,7 @@
   /* ============================================================
      LICENSE GATE — Pastefy (simple keylist validation)
      ============================================================ */
-  var PF_PASTE_ID  = '9yub5rtz';              // paste ID kamu
+  var PF_PASTE_ID  = 'kWuqyS84';              // paste ID kamu
   var PF_KEY_LS    = 'iril_pf_key';
   var PF_TOKEN_LS  = 'iril_pf_token';
   var PF_EXP_LS    = 'iril_pf_exp';
